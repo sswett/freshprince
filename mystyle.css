@@ -1,3 +1,15 @@
 h1 {
-	color: red;
+	color: navy;
+}
+
+body {
+	background-color: wheat;
+	margin: 50px auto;
+	max-width: 800px;
+	font-family: Verdana, sans-serif;
+}
+
+p {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 1.1em;
 }
